@@ -1,0 +1,10 @@
+Create a working cart functionality in the given template similar to Reference Website.
+Create a functionality of search in the given template which is similar to reference website.
+(When the quantity is updated it should be reflected everywhere)
+
+Note:
+Products a provided in products.json file
+
+Reference Website
+https://www.mathem.se/
+ 
